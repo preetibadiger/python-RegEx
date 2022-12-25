@@ -2,8 +2,6 @@
  # Regular Expression
 import re
 
-#Check if the string starts with "The" and ends with "Spain":
-
 txt = "A RegEx, or Regular Expression, is a sequence of characters that forms a search pattern."
 x = re.search("^A.*pattern.$", txt)
 
