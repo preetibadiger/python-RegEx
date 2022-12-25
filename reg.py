@@ -1,5 +1,5 @@
-
 #### Regular Expression  ####
+
 import re
 txt = "A RegEx, or Regular Expression, is a sequence of characters that forms a search pattern."
 x = re.search("^A.*pattern.$", txt)
@@ -8,9 +8,8 @@ if x:
   print("YES! We have a match the string in 'txts' !")
 else:
   print("No match of string in 'txt' ")
-
-
-#RegEx Functions
+  
+  #RegEx Functions
 
  #findall() Function
 
