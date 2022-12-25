@@ -31,7 +31,6 @@ else:
 
   #search() Function
 
-
 txt4 = "The rain in Spain"
 x = re.search("\s", txt)
 
